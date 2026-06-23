@@ -51,3 +51,4 @@ __pycache__/*
 # Heavy files
 datasets/*
 results/elect/results_elec2.json
+results/synthetic/final/qs.json
